@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Microsoft Surface Laptop",
+        "category" : "Laptop",
+        "price" : "799",
+        "imgSrc" : "images/microsoft-surface.jpg"
+    },
+    {
+        "name" : "Innjoo Voom Laptop",
+        "category" : "Laptop",
+        "price" : "286.20",
+        "imgSrc" : "images/innjoo-voom-laptop.jpg"
+    },
+    {
+        "name" : "HP Laptop",
+        "category" : "Laptop",
+        "price" : "631.99",
+        "imgSrc" : "images/portatil-hp.jpg"
+    },
+    {
+        "name" : "Basic Home Intel",
+        "category" : "Pc",
+        "price" : "253.14",
+        "imgSrc" : "images/basic-home.jpg"
+    },
+    {
+        "name" : "StartUp Lite Intel",
+        "category" : "Pc",
+        "price" : "611.76",
+        "imgSrc" : "images/startup-lite.jpg"
+    },
+    {
+        "name" : "Bronze AMD Ryzen",
+        "category" : "Pc",
+        "price" : "430.65",
+        "imgSrc" : "images/bronze-ryze.jpg "
+    }
+]
