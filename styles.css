@@ -215,6 +215,7 @@ header .container{
 }
 .cart-item img{
     width: 80px;
+    height: 80px;
 }
 .cart-item-info{
     text-align: center;
@@ -502,7 +503,7 @@ footer > .container{
     }
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1500px){
     .navbar{
         padding: 1.5rem 14rem!important;
     }
